@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://flouremberbakery.example.com/sitemap.xml
